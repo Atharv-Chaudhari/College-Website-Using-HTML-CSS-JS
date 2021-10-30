@@ -382,6 +382,12 @@ img {vertical-align: middle;}
   position: relative;
   padding: 10px 5px;
 }
+.social-ico{
+  width:20px;
+  height:20px;
+  padding-left: 2.5px;
+  padding-top: 2.5px;
+}
 .menu-container .menu-item .menu-item-text {
   display: flex;
   position: absolute;
@@ -556,3 +562,4 @@ a .fa {
     background: #bb0000;
     color: white;
   }
+  
